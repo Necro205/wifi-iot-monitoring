@@ -1,0 +1,61 @@
+Day,TimePeriod,Time,LocationKey,Location,LocationShort,SSID,BSSID,RSSI,Channel,Quality
+Tuesday,Morning,09:46,1,1 - Cafeteria (Crowded),1-Cafeteria,cafe@swu,00:03:7f:12:f2:97,-39,1,Excellent
+Tuesday,Morning,09:49,2,2 - Behind Concrete Wall,2-Behind Wall,cafe@swu,00:03:7f:12:f2:97,-77,1,Poor
+Tuesday,Morning,09:51,3,3 - Main Hall (Transit),3-Main Hall,cafe@swu,00:03:7f:12:f2:97,-61,1,Fair
+Tuesday,Morning,09:53,4,4 - Garden (Open Area),4-Garden,cafe@swu,00:03:7f:12:f2:97,-68,1,Fair
+Tuesday,Morning,10:03,5,5 - Basement (Dead Zone),5-Basement,cafe@swu,00:03:7f:12:f2:97,-69,1,Fair
+Tuesday,Noon,12:27,1,1 - Cafeteria (Crowded),1-Cafeteria,cafe@swu,00:03:7f:12:0e:c3,-35,36(42),Excellent
+Tuesday,Noon,12:30,2,2 - Behind Concrete Wall,2-Behind Wall,cafe@swu,00:03:7f:12:0e:c3,-78,36(42),Poor
+Tuesday,Noon,12:32,3,3 - Main Hall (Transit),3-Main Hall,cafe@swu,00:03:7f:12:f2:97,-66,1,Fair
+Tuesday,Noon,12:33,4,4 - Garden (Open Area),4-Garden,cafe@swu,00:03:7f:12:f2:97,-66,1,Fair
+Tuesday,Noon,12:35,5,5 - Basement (Dead Zone),5-Basement,cafe@swu,00:03:7f:12:f2:97,-74,1,Poor
+Tuesday,Afternoon,16:12,1,1 - Cafeteria (Crowded),1-Cafeteria,cafe@swu,00:03:7f:12:0e:c3,-43,36(42),Excellent
+Tuesday,Afternoon,16:14,2,2 - Behind Concrete Wall,2-Behind Wall,cafe@swu,00:03:7f:12:f2:97,-75,1,Poor
+Tuesday,Afternoon,16:16,3,3 - Main Hall (Transit),3-Main Hall,cafe@swu,00:03:7f:12:f2:97,-64,1,Fair
+Tuesday,Afternoon,16:18,4,4 - Garden (Open Area),4-Garden,cafe@swu,00:03:7f:12:f2:97,-66,1,Fair
+Tuesday,Afternoon,16:20,5,5 - Basement (Dead Zone),5-Basement,cafe@swu,00:03:7f:12:f2:97,-75,1,Poor
+Wednesday,Morning,10:39,1,1 - Cafeteria (Crowded),1-Cafeteria,cafe@swu,00:03:7f:12:0e:c3,-43,36(42),Excellent
+Wednesday,Morning,10:41,2,2 - Behind Concrete Wall,2-Behind Wall,cafe@swu,00:03:7f:12:f2:97,-74,1,Poor
+Wednesday,Morning,10:42,3,3 - Main Hall (Transit),3-Main Hall,cafe@swu,00:03:7f:12:f2:97,-60,1,Good
+Wednesday,Morning,10:44,4,4 - Garden (Open Area),4-Garden,cafe@swu,00:03:7f:12:f2:97,-66,1,Fair
+Wednesday,Morning,10:46,5,5 - Basement (Dead Zone),5-Basement,cafe@swu,00:03:7f:12:f2:97,-78,1,Poor
+Wednesday,Noon,12:38,1,1 - Cafeteria (Crowded),1-Cafeteria,cafe@swu,00:03:7f:12:0e:c3,-44,36(42),Excellent
+Wednesday,Noon,12:39,2,2 - Behind Concrete Wall,2-Behind Wall,cafe@swu,00:03:7f:12:0e:c3,-78,36(42),Poor
+Wednesday,Noon,12:41,3,3 - Main Hall (Transit),3-Main Hall,cafe@swu,00:03:7f:12:0e:c3,-68,36(42),Fair
+Wednesday,Noon,12:42,4,4 - Garden (Open Area),4-Garden,cafe@swu,00:03:7f:12:f2:97,-67,1,Fair
+Wednesday,Noon,12:45,5,5 - Basement (Dead Zone),5-Basement,cafe@swu,00:03:7f:12:f2:97,-82,1,Poor
+Wednesday,Afternoon,16:15,1,1 - Cafeteria (Crowded),1-Cafeteria,cafe@swu,00:03:7f:12:0e:c3,-40,36(42),Excellent
+Wednesday,Afternoon,16:16,2,2 - Behind Concrete Wall,2-Behind Wall,cafe@swu,00:03:7f:12:0e:c3,-80,36(42),Poor
+Wednesday,Afternoon,16:18,3,3 - Main Hall (Transit),3-Main Hall,cafe@swu,00:03:7f:12:f2:97,-59,1,Good
+Wednesday,Afternoon,16:20,4,4 - Garden (Open Area),4-Garden,cafe@swu,00:03:7f:12:f2:97,-66,1,Fair
+Wednesday,Afternoon,16:21,5,5 - Basement (Dead Zone),5-Basement,cafe@swu,00:03:7f:12:f2:97,-76,1,Poor
+Thursday,Morning,10:39,1,1 - Cafeteria (Crowded),1-Cafeteria,cafe@swu,00:03:7f:12:0e:c3,-41,36(42),Excellent
+Thursday,Morning,10:41,2,2 - Behind Concrete Wall,2-Behind Wall,cafe@swu,00:03:7f:12:f2:97,-72,1,Poor
+Thursday,Morning,10:43,3,3 - Main Hall (Transit),3-Main Hall,cafe@swu,00:03:7f:12:f2:97,-65,1,Fair
+Thursday,Morning,10:45,4,4 - Garden (Open Area),4-Garden,cafe@swu,00:03:7f:12:f2:97,-67,1,Fair
+Thursday,Morning,10:47,5,5 - Basement (Dead Zone),5-Basement,cafe@swu,00:03:7f:12:f2:97,-73,1,Poor
+Thursday,Noon,12:54,1,1 - Cafeteria (Crowded),1-Cafeteria,cafe@swu,00:03:7f:12:0e:c3,-40,36(42),Excellent
+Thursday,Noon,12:56,2,2 - Behind Concrete Wall,2-Behind Wall,cafe@swu,00:03:7f:12:f2:97,-71,1,Poor
+Thursday,Noon,12:57,3,3 - Main Hall (Transit),3-Main Hall,cafe@swu,00:03:7f:12:f2:97,-67,1,Fair
+Thursday,Noon,12:58,4,4 - Garden (Open Area),4-Garden,cafe@swu,00:03:7f:12:f2:97,-70,1,Fair
+Thursday,Noon,13:00,5,5 - Basement (Dead Zone),5-Basement,cafe@swu,00:03:7f:12:f2:97,-74,1,Poor
+Thursday,Afternoon,16:02,1,1 - Cafeteria (Crowded),1-Cafeteria,cafe@swu,00:03:7f:12:0e:c3,-35,36(42),Excellent
+Thursday,Afternoon,16:03,2,2 - Behind Concrete Wall,2-Behind Wall,cafe@swu,00:03:7f:12:f2:97,-83,1,Poor
+Thursday,Afternoon,16:04,3,3 - Main Hall (Transit),3-Main Hall,cafe@swu,00:03:7f:12:f2:97,-60,1,Good
+Thursday,Afternoon,16:06,4,4 - Garden (Open Area),4-Garden,cafe@swu,00:03:7f:12:f2:97,-70,1,Fair
+Thursday,Afternoon,16:08,5,5 - Basement (Dead Zone),5-Basement,cafe@swu,00:03:7f:12:f2:97,-78,1,Poor
+Friday,Morning,13:18,1,1 - Cafeteria (Crowded),1-Cafeteria,cafe@swu,00:03:7f:12:0e:c3,-36,36(42),Excellent
+Friday,Morning,13:20,2,2 - Behind Concrete Wall,2-Behind Wall,cafe@swu,00:03:7f:12:f2:97,-81,1,Poor
+Friday,Morning,13:22,3,3 - Main Hall (Transit),3-Main Hall,cafe@swu,00:03:7f:12:f2:97,-56,1,Good
+Friday,Morning,13:23,4,4 - Garden (Open Area),4-Garden,cafe@swu,00:03:7f:12:f2:97,-72,1,Poor
+Friday,Morning,13:26,5,5 - Basement (Dead Zone),5-Basement,cafe@swu,00:03:7f:12:f2:97,-83,1,Poor
+Friday,Noon,15:23,1,1 - Cafeteria (Crowded),1-Cafeteria,cafe@swu,00:03:7f:12:0e:c3,-44,36(42),Excellent
+Friday,Noon,15:24,2,2 - Behind Concrete Wall,2-Behind Wall,cafe@swu,00:03:7f:12:f2:97,-79,1,Poor
+Friday,Noon,15:25,3,3 - Main Hall (Transit),3-Main Hall,cafe@swu,00:03:7f:12:0e:c3,-68,36(42),Fair
+Friday,Noon,15:26,4,4 - Garden (Open Area),4-Garden,cafe@swu,00:03:7f:12:f2:97,-71,1,Poor
+Friday,Noon,15:28,5,5 - Basement (Dead Zone),5-Basement,cafe@swu,00:03:7f:12:f2:97,-78,1,Poor
+Friday,Afternoon,16:23,1,1 - Cafeteria (Crowded),1-Cafeteria,cafe@swu,00:03:7f:12:0e:c3,-39,36(42),Excellent
+Friday,Afternoon,16:24,2,2 - Behind Concrete Wall,2-Behind Wall,cafe@swu,00:03:7f:12:f2:97,-77,1,Poor
+Friday,Afternoon,16:25,3,3 - Main Hall (Transit),3-Main Hall,cafe@swu,00:03:7f:12:f2:97,-71,1,Poor
+Friday,Afternoon,16:27,4,4 - Garden (Open Area),4-Garden,cafe@swu,00:03:7f:12:f2:97,-69,1,Fair
+Friday,Afternoon,16:28,5,5 - Basement (Dead Zone),5-Basement,cafe@swu,00:03:7f:12:f2:97,-76,1,Poor
