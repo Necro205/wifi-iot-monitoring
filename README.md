@@ -61,7 +61,6 @@ wifi-iot-monitoring/
 └── docs/
     ├── methodology.md                 ← Detailed methodology
     ├── findings.md                    ← Extended discussion
-    └── github-upload-guide.md         ← Upload guide (Turkish)
 ```
 
 ---
